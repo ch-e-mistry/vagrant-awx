@@ -36,7 +36,7 @@ From technology point of view:
 
 - Installed Vagrant
 
-- Windows OS (where you run 1_install.cmd)
+- Windows OS
 
 ### First usage
 
